@@ -1,4 +1,5 @@
 # Age In Minutes Calculator Android Mobile
+Enter your date of birth and it shows how many minutes has past since you were born
 
 ## About The Project
 This is my first project that I have created on my path for learning Android Mobile Development. This was meant as a simple project to help myself learn the basics of kotlin and setting up a mobile development.
